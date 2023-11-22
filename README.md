@@ -6,7 +6,7 @@ for routes see the postman screen shots
 TO GET QUESTION FROM API 
 ![2023-11-22 (5)](https://github.com/pandeyji2509/Queestion_paper/assets/96988661/591103ba-d8ff-405a-b111-c395cefbf25e)
 
-TO PREAPRE QUESTION PAPER IN DATABASE
+TO PREPARE QUESTION PAPER IN DATABASE
 ![2023-11-22 (4)](https://github.com/pandeyji2509/Queestion_paper/assets/96988661/6199327c-63a3-45f6-aa59-6b9f090e6100)
 
 TO GET ALL QUESTIONS IN DATABASE
